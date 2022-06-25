@@ -1,0 +1,74 @@
+.navbar a{
+color: white;
+}
+.navbar li{
+    left:50px;
+}
+.bgimage{
+    background-image:url(https://demo.templateflip.com/awesome-app/images/home-image.jpg);
+}
+
+.col-lg-6 h2 {
+color: white;
+}
+.col-lg-6 p {
+    color: white;
+    }
+.col{
+    border: none;
+}    
+.card-title i{
+    color: orangered;
+    font-size: 50px;
+}
+.sctn-3{
+    padding-top: 30px;
+}
+.card{
+
+border: none;
+}
+.text{
+    text-align: center;
+}
+.text h2 {
+    color: black;
+}
+.text p{
+    color: gray;
+}
+.slider{
+    background-color:aliceblue;
+}
+.textt{
+    text-align: center;
+    padding-top: 45px;
+}
+.textt h2{
+    color: black;
+}
+.textt p{
+    color: gray;
+}
+
+
+
+.sctn-5{
+ padding: 30px 30px;
+ text-align: center;
+}
+.sctn-6{
+    padding: 30px 30px;
+ text-align: center; 
+}
+.sctn-6 h1{
+    text-align: center;
+}
+.sctn-6 p{
+    text-align: center;
+}
+#sctn-7{
+    padding: 0px 30px;
+ text-align: center; 
+ background-image: url('https://demo.templateflip.com/awesome-app/images/home-image.jpg');
+}
